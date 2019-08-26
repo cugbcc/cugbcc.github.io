@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[C#手记](C#)
+[XAML 笔记](xaml)
 
 You can use the [editor on GitHub](https://github.com/cugbcc/cugbcc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
