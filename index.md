@@ -2,8 +2,22 @@
 
 [开发笔记](xaml.md)
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" preserveAspectRatio="xMidYMin meet">			<g data-name="Layer 1">				<path fill="none" d="M.04 0h64v64h-64z"></path>				<path fill="none" d="M-.04 0h64v64h-64z"></path>				<path d="M54.16 16v35a1.86 1.86 0 0 1-2.64 1.69 74.73 74.73 0 0 0-8.72-3.39C29.1 45 12 42.54 6.57 41.85A1.87 1.87 0 0 1 5 40V26.89A1.87 1.87 0 0 1 6.57 25c5.43-.7 22.53-3.1 36.23-7.46a76.6 76.6 0 0 0 8.72-3.3A1.85 1.85 0 0 1 54.16 16z" fill="#e3e3e3" fill-opacity=".3"></path>				<path d="M32.16 46.19v1.47a6.28 6.28 0 0 1-6.28 6.28h-.81A7 7 0 0 1 18.12 47v-3.7" stroke="#c8c8c8" stroke-miterlimit="10" stroke-width="2" fill="none"></path>				<path d="M59.05 33.44A7 7 0 0 1 49.56 40c-.18-2.07-.28-4.27-.28-6.54s.1-4.51.28-6.6a7 7 0 0 1 9.49 6.57z" fill="#919191"></path>				<path fill="#c8c8c8" d="M52.3 15.44a.52.52 0 0 1 .52.53v35a.52.52 0 0 1-.52.52.59.59 0 0 1-.22 0A76.54 76.54 0 0 0 43.21 48c-13.88-4.41-31.42-6.86-36.47-7.5a.52.52 0 0 1-.44-.5V26.89a.53.53 0 0 1 .45-.52c6.47-.83 23-3.22 36.46-7.51a76.64 76.64 0 0 0 8.87-3.36.46.46 0 0 1 .22-.06m0-1.34a1.85 1.85 0 0 0-.78.18 76.6 76.6 0 0 1-8.72 3.3C29.1 21.94 12 24.34 6.57 25A1.87 1.87 0 0 0 5 26.89V40a1.87 1.87 0 0 0 1.62 1.85C12 42.54 29.1 45 42.8 49.3a74.73 74.73 0 0 1 8.72 3.31 1.83 1.83 0 0 0 .78.17 1.86 1.86 0 0 0 1.86-1.86V16a1.86 1.86 0 0 0-1.86-1.9z"></path>				<path fill="#c8c8c8" d="M54.16 16v35a1.86 1.86 0 0 1-2.64 1.69 74.73 74.73 0 0 0-8.72-3.39V17.58a76.6 76.6 0 0 0 8.72-3.3A1.85 1.85 0 0 1 54.16 16z"></path>				<circle cx="26.29" cy="21.3" r="9.8" class="has-fill-current-color" fill="#0079d6"></circle>				<path fill="#fff" d="M26.3 15.36l1.47 4.54h4.77l-3.86 2.8 1.47 4.54-3.85-2.81-3.86 2.81 1.47-4.54-3.86-2.8h4.77l1.48-4.54z"></path>			</g>		</svg>
 
+<div class="column is-6-tablet is-3-desktop">
+						<a href="whats-new/" class="box is-block is-full-height has-padding-medium has-heavy-shadow-hover has-border-high-contrast-hover has-padding-large is-undecorated" aria-labelledby="-net----------6" data-linktype="relative-path">
+							<div class="columns">
+								<div class=" is-hidden-mobile">
+									<div class="image is-max-64x64 has-text-dotnet">		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" preserveAspectRatio="xMidYMin meet">			<g data-name="Layer 1">				<path fill="none" d="M.04 0h64v64h-64z"></path>				<path fill="none" d="M-.04 0h64v64h-64z"></path>				<path d="M54.16 16v35a1.86 1.86 0 0 1-2.64 1.69 74.73 74.73 0 0 0-8.72-3.39C29.1 45 12 42.54 6.57 41.85A1.87 1.87 0 0 1 5 40V26.89A1.87 1.87 0 0 1 6.57 25c5.43-.7 22.53-3.1 36.23-7.46a76.6 76.6 0 0 0 8.72-3.3A1.85 1.85 0 0 1 54.16 16z" fill="#e3e3e3" fill-opacity=".3"></path>				<path d="M32.16 46.19v1.47a6.28 6.28 0 0 1-6.28 6.28h-.81A7 7 0 0 1 18.12 47v-3.7" stroke="#c8c8c8" stroke-miterlimit="10" stroke-width="2" fill="none"></path>				<path d="M59.05 33.44A7 7 0 0 1 49.56 40c-.18-2.07-.28-4.27-.28-6.54s.1-4.51.28-6.6a7 7 0 0 1 9.49 6.57z" fill="#919191"></path>				<path fill="#c8c8c8" d="M52.3 15.44a.52.52 0 0 1 .52.53v35a.52.52 0 0 1-.52.52.59.59 0 0 1-.22 0A76.54 76.54 0 0 0 43.21 48c-13.88-4.41-31.42-6.86-36.47-7.5a.52.52 0 0 1-.44-.5V26.89a.53.53 0 0 1 .45-.52c6.47-.83 23-3.22 36.46-7.51a76.64 76.64 0 0 0 8.87-3.36.46.46 0 0 1 .22-.06m0-1.34a1.85 1.85 0 0 0-.78.18 76.6 76.6 0 0 1-8.72 3.3C29.1 21.94 12 24.34 6.57 25A1.87 1.87 0 0 0 5 26.89V40a1.87 1.87 0 0 0 1.62 1.85C12 42.54 29.1 45 42.8 49.3a74.73 74.73 0 0 1 8.72 3.31 1.83 1.83 0 0 0 .78.17 1.86 1.86 0 0 0 1.86-1.86V16a1.86 1.86 0 0 0-1.86-1.9z"></path>				<path fill="#c8c8c8" d="M54.16 16v35a1.86 1.86 0 0 1-2.64 1.69 74.73 74.73 0 0 0-8.72-3.39V17.58a76.6 76.6 0 0 0 8.72-3.3A1.85 1.85 0 0 1 54.16 16z"></path>				<circle cx="26.29" cy="21.3" r="9.8" class="has-fill-current-color" fill="#0079d6"></circle>				<path fill="#fff" d="M26.3 15.36l1.47 4.54h4.77l-3.86 2.8 1.47 4.54-3.85-2.81-3.86 2.81 1.47-4.54-3.86-2.8h4.77l1.48-4.54z"></path>			</g>		</svg>		</div>
+								</div>
+								<div class="column is-9 has-padding-top-extra-small">
+									<p class="is-size-extra-small has-margin-none has-text-subtle is-uppercase">新变化</p>
+									<h2 id="-net----------6" class="is-size-h6 has-margin-none">.NET 文档中的新增功能</h2>
+								</div>
+							</div>
+						</a>
+					</div>
+          
+          
 ### 升级后版本号 1.00.1205 升级前版本号 1.00.1127
 
 #### 发射机部分
