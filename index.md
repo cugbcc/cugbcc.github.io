@@ -12,9 +12,7 @@
 		<circle cx="26.29" cy="21.3" r="9.8" class="has-fill-current-color" fill="#0079d6"></circle>
 		<path fill="#fff" d="M26.3 15.36l1.47 4.54h4.77l-3.86 2.8 1.47 4.54-3.85-2.81-3.86 2.81 1.47-4.54-3.86-2.8h4.77l1.48-4.54z"></path>
 	</g>
-</svg>](release)
-
-[<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" preserveAspectRatio="xMidYMin meet">
+</svg>](release)[<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" preserveAspectRatio="xMidYMin meet">
 	<g style="isolation:isolate">
 		<g data-name="Layer 1">
 			<g opacity=".1">
