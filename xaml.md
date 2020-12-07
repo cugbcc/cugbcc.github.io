@@ -1,8 +1,8 @@
-# XAML Note
+# 开发笔记
 
 ---
 
-#### 使用 WindowChrome 自定义标题栏
+## 使用 WindowChrome 自定义标题栏
 
 ```
 <Window>
