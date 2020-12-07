@@ -2,6 +2,8 @@
 
 [开发笔记](xaml.md)
 
+![开发笔记](<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" preserveAspectRatio="xMidYMin meet">			<g style="isolation:isolate">			  <g data-name="Layer 1">				<g opacity=".1">				  <path d="M52.51 52.38h-40.1a1.12 1.12 0 0 1-1.12-1.12V25a1.13 1.13 0 0 1 1.12-1.13h40.76a.47.47 0 0 1 .47.47v26.9a1.12 1.12 0 0 1-1.13 1.14z" opacity=".3" fill="#404040"></path>				</g>				<path d="M52.51 51.92h-40.1a1.12 1.12 0 0 1-1.12-1.12V24.56a1.13 1.13 0 0 1 1.12-1.13h40.76a.47.47 0 0 1 .47.47v26.9a1.12 1.12 0 0 1-1.13 1.12z" fill="#e3e3e3" opacity=".3"></path>				<path d="M12 23.11h41.64a.48.48 0 0 1 .48.48v27.5A1.15 1.15 0 0 1 53 52.25H12a1.15 1.15 0 0 1-1.15-1.15V24.26A1.15 1.15 0 0 1 12 23.11z" stroke="#c8c8c8" stroke-width="1.25" fill="none" stroke-miterlimit="10"></path>				<circle cx="32.5" cy="17.03" r="8.8" class="has-fill-current-color" fill="#0079d6"></circle>				<path fill="#c8c8c8" d="M4.46 51.72h56v2.5a1.56 1.56 0 0 1-1.56 1.56H6a1.56 1.56 0 0 1-1.56-1.56v-2.5h.02z"></path>				<path d="M32.5 12.26v8.09m3.04-3.05l-3.04 3.04-3.04-3.04" stroke="#fff" stroke-width="1.62" fill="none" stroke-miterlimit="10"></path>				<path fill="#c8c8c8" transform="rotate(180 32.405 37.675)" d="M20.6 35.78h23.61v3.8H20.6z"></path>				<path fill="#acacac" d="M28.35 35.78h16.16v3.8H28.35z"></path>			  </g>			</g>		</svg>	)
+
 
 
 <div class="columns is-multiline">
