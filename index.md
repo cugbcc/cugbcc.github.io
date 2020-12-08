@@ -1,12 +1,10 @@
 # 更新说明
 
-[设备IP](ipsheet) | [软件截图](screenshots) | [开发笔记](xaml) 
+[设备连接配置](ipsheet) | [软件截图](screenshots) | [开发笔记](xaml) |
 
 ### 2020.xx.xx (1.00 -> 1.01)
 
 Updating...
-
----
 
 ### 2020.12.05
 
