@@ -1,5 +1,7 @@
 [设备信息](ipsheet) | [软件截图](screenshots) | [开发笔记](xaml)
 
+# 更新说明
+
 ### 2020.xx.xx (1.00 -> 1.01)
 
 Updating...
