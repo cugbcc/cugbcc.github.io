@@ -1,8 +1,8 @@
 
-SuperEM电法仪控制软件 
-:---:
-[更新文档](superem)
-[设备信息](ipsheet)
+SuperEM电法仪控制软件 |
+:---: |
+[更新文档](superem) |
+[设备信息](ipsheet) |
 
 
 
