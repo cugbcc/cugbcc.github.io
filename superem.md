@@ -1,5 +1,7 @@
 # SuperEM电法仪控制软件
 
+![SuperEM电法仪控制软件](screenshots/superem.png)
+
 ### 2020.xx.xx (1.00 -> 1.01)
 
 Updating...
